@@ -1,9 +1,14 @@
-# BioSeq Toolkit
+#BioSeq Toolkit
 
-A collection of basic bioinformatics tools written in Python.
+A collection of simple bioinformatics tools written in Python.
 
-##  DNA Analyzer
+🔬 Tools Included
 
+- DNA Analyzer
+- Reverse Complement Generator
+- (More coming soon...)
+
+##DNA Analyzer
 This tool:
 - Calculates DNA sequence length
 - Counts nucleotides (A, T, G, C)
@@ -21,3 +26,17 @@ T: 2
 G: 2
 C: 1
 GC Content: 42.86%
+
+#### 🚀 How to Run
+
+Make sure Python is installed.
+
+Run:
+
+python reverse_complement.py
+
+
+
+##### 📌 Author
+
+lolrocks101
